@@ -8,6 +8,31 @@ local getProfession = ProfessionFramework.getProfession
 ProfessionFramework.RemoveDefaultProfessions = true
 
 
+
+addProfession('HellDiver', {
+    name = "UI_prof_helldiver",
+    icon = "prof_sharpshooter",
+    cost = 0,
+    xp = {
+        [Perks.Sprinting] = 4,
+        [Perks.Doctor] = 5,
+        [Perks.Strength] = 5,
+        [Perks.Fitness] = 4,
+        [Perks.Aiming] = 3,
+        [Perks.Blunt] = 2,
+        [Perks.SmallBlade] = 2,
+    },
+    clothing = {
+        Mask = {"Base.Hat_GasMask"},
+        TorsoExtra = {"Base.Vest_BulletArmy"},
+        FullHat = {"Base.Hat_SPHhelmet"},
+        Jacket = {"Base.Jacket_WhiteTINT"},
+        Shoes =  {"Base.Shoes_ArmyBoots"},
+    },
+})
+-- Base.Hat_TinFoilHat TODO
+-- passed here is stolen from 10 Years Later Professions and Occupations
+
 addProfession('unemployed', {
     name = "UI_prof_norole",
     icon = "",
