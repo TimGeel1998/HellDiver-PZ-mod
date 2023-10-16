@@ -26,7 +26,7 @@ addProfession('HellDiver', {
         Mask = {"Base.Hat_GasMask"},
         TorsoExtra = {"Base.Vest_BulletArmy"},
         FullHat = {"Base.Hat_SPHhelmet"},
-        Jacket = {"Base.Jacket_WhiteTINT"},
+        FullSuit = {"Base.Boilersuit_Flying"},
         Shoes =  {"Base.Shoes_ArmyBoots"},
     },
 })
