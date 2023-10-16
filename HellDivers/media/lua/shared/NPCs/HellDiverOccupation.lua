@@ -24,12 +24,13 @@ addProfession('HellDiver', {
     },
     clothing = {
         Mask = {"Base.Hat_GasMask"},
-        TorsoExtra = {"Base.Vest_BulletArmy"},
         FullHat = {"Base.Hat_SPHhelmet"},
         FullSuit = {"Base.Boilersuit_Flying"},
         Shoes =  {"Base.Shoes_ArmyBoots"},
     },
 })
+
+--         TorsoExtra = {"Base.Vest_BulletArmy"},
 -- Base.Hat_TinFoilHat TODO
 -- passed here is stolen from 10 Years Later Professions and Occupations
 
