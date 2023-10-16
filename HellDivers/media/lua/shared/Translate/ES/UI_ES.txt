@@ -1,0 +1,34 @@
+UI_ES = {
+    UI_prof_norole = "Sin Rol",
+    UI_profdesc_norole = "",
+
+    UI_prof_common = "Superviviente Común",
+    UI_profdesc_common = "Eres el sobreviviente promedio. Un poco de todo en un solo paquete.",
+
+    UI_prof_hardened = "Sobreviviente Endurecido",
+    UI_profdesc_hardened = "Tienes más habilidad y experiencia que el sobreviviente común, con la desventaja de perder puntos de rasgo. Sabes cómo operar generadores.",
+
+    UI_prof_sharpshooter = "Tirador Agudo",
+    UI_profdesc_sharpshooter = "Eres más hábil con las armas de fuego y sabes cómo operarlas rápidamente.",
+        
+    UI_prof_medic = "Médica",
+    UI_profdesc_medic = "Tienes más conocimiento con artículos medicinales.",
+        
+    UI_prof_nimrod = "Nimrod",
+    UI_profdesc_nimrod = "Te has adaptado al mundo exterior y tienes más posibilidades de sobrevivir al aire libre.",
+
+    UI_prof_cook = "Cocinar",
+    UI_profdesc_cook = "Sabes cómo crear buena comida a partir de restos post-apoclípticos.",
+
+    UI_prof_farmer = "Granjero",
+    UI_profdesc_farmer = "Eres un experto en cultivar cultivos saludables y en realizar tareas más pequeñas al aire libre, como cazar y pescar.",
+
+    UI_prof_builder = "Constructor",
+    UI_profdesc_builder = "Te enfocas en reconstruir la civilización destruida de Kentucky. Sabes cómo operar generadores.",
+
+    UI_prof_thief = "Ladrón",
+    UI_profdesc_thief = "Tienes un mayor nivel de sigilo y una mejor comprensión de las armas de hoja pequeña. Puede hotwire coches.",
+
+    UI_prof_scrapmech = "Mecánico de chatarra",
+    UI_profdesc_scrapmech = "Te enfocas en crear y reparar cualquier cosa que sea de metal. Sabes cómo operar generadores.",
+}

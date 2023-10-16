@@ -1,0 +1,34 @@
+UI_EN = {
+    UI_prof_norole = "No Role",
+    UI_profdesc_norole = "",
+
+    UI_prof_common = "Common Survivor",
+    UI_profdesc_common = "You are the average survivor. A bit of everything into one package.",
+
+    UI_prof_hardened = "Hardened Survivor",
+    UI_profdesc_hardened = "You have more skill and experience than the common survivor, with the downside of losing trait points.<br>You know how to operate Generators.",
+
+    UI_prof_sharpshooter = "Sharp Shooter",
+    UI_profdesc_sharpshooter = "You are more proficient with firearms, and know how to operate them quickly.",
+
+    UI_prof_medic = "Medic",
+    UI_profdesc_medic = "You have more knowledge with medicinal items.",
+
+    UI_prof_nimrod = "Hermit",
+    UI_profdesc_nimrod = "You have adapted to the outside world, and have better chances surviving outdoors.",
+
+    UI_prof_cook = "Cook",
+    UI_profdesc_cook = "You know how to create great food from post-apocylyptic scraps.",
+
+    UI_prof_farmer = "Farmer",
+    UI_profdesc_farmer = "You are an expert at growing healthy crops, and doing smaller tasks like hunting and fishing.",
+
+    UI_prof_builder = "Builder",
+    UI_profdesc_builder = "You focus on rebuilding the destroyed civilisation of Kentucky.<br>You know how to operate Generators.",
+
+    UI_prof_thief = "Thief",
+    UI_profdesc_thief = "You have a higher sneak level, and have a better understanding of small bladed weapons.<br>You can hotwire cars.",
+
+    UI_prof_scrapmech = "Scrap Mechanic",
+    UI_profdesc_scrapmech = "You focus on creating and repairing anything that's metal.<br>You know how to operate Generators.",
+}

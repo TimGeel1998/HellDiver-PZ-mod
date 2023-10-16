@@ -1,0 +1,34 @@
+UI_FR = {
+UI_prof_norole = "Aucun métier",
+UI_profdesc_norole = "",
+
+UI_prof_common = "Survivaliste",
+UI_profdesc_common = "Vous êtes un survivaliste moyen. Vous êtes touche-à-tout.",
+
+UI_prof_hardened = "Survivant endurci",
+UI_profdesc_hardened = "Vous avez plus de compétences et d'expérience qu'un survivaliste, avec moins de chance de perdre des traits. Vous savez comment utiliser les groupes électrogènes.",
+
+UI_prof_sharpshooter = "Tireur d'élite",
+UI_profdesc_sharpshooter = "Vous êtes efficace avec les armes à feu et savez comment vous en servir avec une efficacité remarquable.",
+
+UI_prof_medic = "Médecin",
+UI_profdesc_medic = "Vous avez une meilleure connaissance du matériel médical qu'un survivant normal.",
+
+UI_prof_nimrod = "Nemrod",
+UI_profdesc_nimrod = "Vous vous êtes adapté à la survie en extérieur, et avez donc plus de chance de survie dehors.",
+
+UI_prof_cook = "Cuisinier",
+UI_profdesc_cook = "Vous savez comment préparer de la bonne nourriture avec ce que vous trouverez dans ce monde post-apocalyptique.",
+
+UI_prof_farmer = "Paysan",
+UI_profdesc_farmer = "Vous êtes un expert en ce qui concerne la culture de plantes, et savez faire des petites tâches à l'extérieur comme la chasse et la pêche.",
+
+UI_prof_builder = "Constructeur",
+UI_profdesc_builder = "Vous vous concentrez sur le fait de reconstruire les civilisations dévastées du Kentucky. Vous savez comment utiliser les groupes électrogènes.",
+
+UI_prof_thief = "Voleur",
+UI_profdesc_thief = "Vous avez un niveau de discrétion assez élevé et avec une bonne connaissance des armes tranchantes courtes. Vous savez démarrer les voitures avec les fils.",
+
+UI_prof_scrapmech = "Bricoleur",
+UI_profdesc_scrapmech = "Vous vous concentrez sur le fait de fabriquer et réparer un peu tout ce qui est métallique. Vous savez comment utiliser les groupes électrogènes.",
+}

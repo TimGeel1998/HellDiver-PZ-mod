@@ -1,0 +1,5 @@
+name=Hell Diver occupation Items
+id=HellDiverOccupationItems
+description=Gives select items on spawn. Only works with the 10 Years Later Occupations & Professions mod
+require=10YearsLaterOccupations
+poster=poster.png
