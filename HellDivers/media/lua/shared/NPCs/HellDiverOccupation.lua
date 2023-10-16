@@ -28,7 +28,7 @@ addProfession('HellDiver', {
         FullSuit = {"Base.Boilersuit_Flying"},
         Shoes =  {"Base.Shoes_ArmyBoots"},
     },
-    traits = {"Desensitized","Adrenaline Junkie"},
+    traits = {"Desensitized","Brave"},
 })
 
 --         TorsoExtra = {"Base.Vest_BulletArmy"},
