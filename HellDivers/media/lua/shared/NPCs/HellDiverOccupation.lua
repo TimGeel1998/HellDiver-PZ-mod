@@ -10,7 +10,7 @@ ProfessionFramework.RemoveDefaultProfessions = true
 
 
 addProfession('HellDiver', {
-    name = "UI_prof_helldiver",
+    name = "helldiver",
     icon = "prof_sharpshooter",
     cost = 0,
     xp = {
@@ -28,6 +28,7 @@ addProfession('HellDiver', {
         FullSuit = {"Base.Boilersuit_Flying"},
         Shoes =  {"Base.Shoes_ArmyBoots"},
     },
+    traits = {"Desensitized","Adrenaline Junkie"},
 })
 
 --         TorsoExtra = {"Base.Vest_BulletArmy"},
